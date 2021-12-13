@@ -1,1 +1,1 @@
-# proyecto_tec_adci
+# proyecto_tec
